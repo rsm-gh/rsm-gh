@@ -4,7 +4,7 @@ Welcome to my public repos, here you can find some of the software that I create
 
 If you find a software or parts of a code useful, please just consider that I stopped maintaining it since the end of 2016. I'm always happy of people reporting bugs, submit features or documeting code, but I do not commit to respond, make any improvement or bug fix.
 
-Nowdays I spend most of my code time either making software for companies or developing private & personal projects. My preferred Web/Python-Django project is [CAOdrive.com](www.caodrive.com).
+Nowdays I spend most of my code time either making software for companies or developing private & personal projects like [CAOdrive.com](www.caodrive.com).
 
 
 Best regards,   
