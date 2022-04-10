@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello
 
 Welcome to my public repos, here you can find some of the software that I created in 2014 for learning to code. 
 
