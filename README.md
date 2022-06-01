@@ -12,4 +12,4 @@ rsm
 
 
 _____________
-[Online CAD Viewer](https://www.cad-viewer.org) | [Chat](https://www.cad-viewer.org/app/chat) | [Personal Website](https://www.senties-martinelli.com)
+[CAD-Viewer.org](https://www.cad-viewer.org) | [Chat](https://www.cad-viewer.org/app/chat) | [Personal Website](https://www.senties-martinelli.com)
