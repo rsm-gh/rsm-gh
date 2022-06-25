@@ -7,9 +7,9 @@ If you find a software or parts of a code useful, just consider that I stopped m
 Nowadays I spend most of my code time either making software for companies or developing private & personal projects.
 
 
-Best regards,   
-rsm
+Happy hacking,   
+rsm~
 
 
 _____________
-[CAD-Viewer.org](https://www.cad-viewer.org) | [Chat](https://www.cad-viewer.org/app/chat) | [Personal Website](https://www.senties-martinelli.com)
+[CAD-Viewer.org](https://www.cad-viewer.org) | [Chat](https://www.cad-viewer.org/app/chat) | [senties-martinelli.com](https://www.senties-martinelli.com)
