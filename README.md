@@ -9,7 +9,3 @@ Nowadays I spend most of my code time either making software for companies or de
 
 Happy hacking,   
 rsm~
-
-
-_____________
-[CAD-Viewer.org](https://www.cad-viewer.org) | [Chat](https://www.cad-viewer.org/app/chat) | [senties-martinelli.com](https://www.senties-martinelli.com)
