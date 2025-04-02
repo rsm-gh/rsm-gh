@@ -12,4 +12,6 @@ Your donations will help to cover general expenses like domain names, servers, I
 
 [![Sponsor me](https://img.shields.io/badge/sponsor-0%24%20USD-%23f0eb18?logo=github)](https://github.com/sponsors/rsm-gh)
 
+---
 
+🌐 [Personal Website](https://www.senties-martinelli.com) ⚙️ [CAD-Viewer Profile](https://www.cad-viewer.org/users/1)
