@@ -1,2 +1,2 @@
 
-This account is not active any more, since September 2025 the code is now hosted in [Codeberg.org](https://codeberg.org/rsm92).
+**⚠️ This account is not used to host code anymore. The code has been migrated to [Codeberg.org](https://codeberg.org/rsm92).**
